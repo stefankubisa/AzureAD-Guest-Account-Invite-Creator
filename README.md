@@ -6,11 +6,11 @@
 
 | Script File | Absolute Path to Spreadsheet | Sheet you want to use |
 |----------|----------|----------|
-| .\MailboxCreator.ps1 | "C:\Users\StefanKubisa\Documents\Scripts\GuestInvitationList.xlsx" | Sheet1 | 
+| .\GuestAccountInviteCreator.ps1 | "C:\Users\StefanKubisa\Documents\Scripts\GuestInvitationList.xlsx" | Sheet1 | 
 
 Like so: 
 
-.\MailboxCreator.ps1 "C:\Users\StefanKubisa\Documents\Scripts\GuestInvitationList.xlsx" Sheet1
+.\GuestAccountInviteCreator.ps1 "C:\Users\StefanKubisa\Documents\Scripts\GuestInvitationList.xlsx" Sheet1
 
 2) Make sure the static values match your worksheet's colum
 
